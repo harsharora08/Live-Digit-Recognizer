@@ -2,4 +2,3 @@ streamlit
 streamlit-drawable-canvas
 tensorflow
 opencv-python
-libgl1-mesa-glx
